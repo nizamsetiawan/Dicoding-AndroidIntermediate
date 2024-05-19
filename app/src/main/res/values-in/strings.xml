@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StorySnap</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Dasbor</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="tittle_story">Tambah Cerita</string>
+    <string name="title_setting">Pengaturan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="capturing_moments_sharing_stories">Merekam Momen, Berbagi Cerita.</string>
+    <string name="quot_experience_life_frame_by_frame_with_story_snap_quot">"Alami Hidup, Frame demi Frame dengan Story Snap!"</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="welcome_back">Selamat Kembali</string>
+    <string name="login1">Masuk</string>
+    <string name="login2">Masuk</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="register1">Daftar</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="input_name">Masukkan Nama Pengguna</string>
+    <string name="item_name">Nama Item</string>
+    <string name="item_description">Deskripsi item</string>
+    <string name="Detail">Detail</string>
+    <string name="upload_in_a_flash">Unggah dengan cepat</string>
+    <string name="seamless_story_sharing_effortlessly_share_your_moments">Berbagi Cerita Tanpa Batas: Berbagi momen Anda dengan mudah</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="add_a_caption">Tambahkan keterangan...</string>
+    <string name="upload">Unggah</string>
+    <string name="hallo_user">Halo Pengguna 😁</string>
+    <string name="snap_your_story_nshare_your_journey">Rekam Ceritamu,\nBagikan Perjalananmu</string>
+    <string name="textlogin">Masuk</string>
+    <string name="captionregisterakun">Sudah punya akun?</string>
+    <string name="buttonregister">Daftar</string>
+    <string name="enter_your_personal_data">Masukkan Data Pribadi Anda</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="title_detail">judul</string>
+    <string name="descriptionsdetail">deskripsi</string>
+    <string name="logout">Keluar</string>
+    <string name="my_home">Beranda Saya</string>
+    <string name="welcome_1">Selamat Datang👋</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Tipe Normal</string>
+    <string name="satellite_type">Tipe Satelit</string>
+    <string name="terrain_type">Tipe Medan</string>
+    <string name="hybrid_type">Tipe Hybrid</string>
+    <string name="Maps">Map Lokasi</string>
+    <string name="ab">AB</string>
+    <string name="user_gmail_com">user@gmail.com</string>
+    <string name="location">Lokasi</string>
+    <string name="language">Bahasa</string>
+    <string name="retry">Memuat Ulang</string>
+</resources>

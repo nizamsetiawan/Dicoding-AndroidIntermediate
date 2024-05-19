@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.StorySnap" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Midnight_red</item>
+        <item name="colorPrimaryDark">@color/Midnight_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Midnight_red_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/Midnight_red</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.StorySnap.Details" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <item name="colorPrimary">@color/Midnight_red</item>
+    </style>
+
+    <style name="Theme.StorySnapSplashScreen" parent="Theme.StorySnap" />
+
+
+    <style name="Theme.App.StorySnap.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splashscreen</item>
+        <item name="postSplashScreenTheme">@style/Theme.StorySnap</item>
+    </style>
+
+
+    <style name="Button.OutlineBox" parent="Widget.MaterialComponents.Button.OutlinedButton"></style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StorySnap" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">StorySnap</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tittle_story">Add Story</string>
+    <string name="title_setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="capturing_moments_sharing_stories">Capturing Moments, Sharing Stories.</string>
+    <string name="quot_experience_life_frame_by_frame_with_story_snap_quot">\"Experience Life, Frame by Frame with Story Snap!\"</string>
+    <string name="welcome">Welcome!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login1">Login</string>
+    <string name="login2">Login</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="register1">Register</string>
+    <string name="username">Username</string>
+    <string name="input_name">Input Username</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">item description</string>
+    <string name="Detail">detail</string>
+    <string name="upload_in_a_flash">Upload in a Flash</string>
+    <string name="seamless_story_sharing_effortlessly_share_your_moments">Seamless Story Sharing: Effortlessly share your moments</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add_a_caption">Add a caption...</string>
+    <string name="upload">Upload</string>
+    <string name="hallo_user">Hallo User 😁</string>
+    <string name="snap_your_story_nshare_your_journey">Snap Your Story,\nShare Your Journey</string>
+    <string name="textlogin">Login</string>
+    <string name="captionregisterakun">Already have an Account?</string>
+    <string name="buttonregister">Register</string>
+    <string name="enter_your_personal_data">Enter your Personal Data</string>
+    <string name="create_account">Create Account</string>
+    <string name="title_detail">title</string>
+    <string name="descriptionsdetail">descriptions</string>
+    <string name="logout">Logout</string>
+    <string name="my_home">My Home</string>
+    <string name="welcome_1">Welcome 👋</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">normal type</string>
+    <string name="satellite_type">satelite type</string>
+    <string name="terrain_type">terrain type</string>
+    <string name="hybrid_type">hybrid type</string>
+    <string name="Maps">Maps Location</string>
+    <string name="ab">AB</string>
+    <string name="user_gmail_com">user@gmail.com</string>
+    <string name="location">Location</string>
+    <string name="language">Language</string>
+    <string name="retry">Reload</string>
+
+</resources>
